@@ -1,4 +1,4 @@
-# AI Strength Tracker
+#STRONG - ai
 
 An AI-powered system designed to help gym enthusiasts optimize their training. By combining workout and nutrition tracking with intelligent analytics, the application provides a holistic view of your progress and offers insights to enhance your performance safely and efficiently. It's a comprehensive tool for both beginners and experienced lifters looking to maximize their gains and minimize injury risk.
 
